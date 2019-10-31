@@ -1,2 +1,2 @@
-# super-fun-facts
-learn new things
+# Super-Fun-Facts
+Learn new things
